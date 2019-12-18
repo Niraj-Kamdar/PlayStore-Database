@@ -1,0 +1,5 @@
+clint==0.5.1
+prettytable==0.7.2
+PyInquirer==1.0.3
+pyfiglet==0.8.post1
+pg8000==1.13.2
